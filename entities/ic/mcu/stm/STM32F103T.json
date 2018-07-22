@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "29226b5b-39aa-445a-b9bd-0e4ca27f4cba": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "810b018f-3bb4-4784-90a3-c6e20ca7d60f"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STM32F103T",
+    "prefix": "U",
+    "tags": [
+        "arm",
+        "ic",
+        "mcu",
+        "stm32"
+    ],
+    "type": "entity",
+    "uuid": "0db12bf3-9635-44d6-ba5a-d0f12298359b"
+}

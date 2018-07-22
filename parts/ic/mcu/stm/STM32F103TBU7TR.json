@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "STM32F103TBU7TR"
+    ],
+    "base": "6cef2194-7ef7-42a7-8acb-03ffb96fa0ad",
+    "datasheet": [
+        true,
+        "https://www.st.com/resource/en/datasheet/stm32f103t8.pdf"
+    ],
+    "description": [
+        true,
+        "Mainstream Performance line, ARM Cortex-M3 MCU with 64 Kbytes Flash, 72 MHz CPU, motor control, USB and CAN"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8b2566b0-7b7c-43e1-91c3-5706ba64dc6e",
+    "value": [
+        false,
+        "STM32F103TBU7"
+    ]
+}
