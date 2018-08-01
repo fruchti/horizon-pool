@@ -1,0 +1,56 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "ADP3110A",
+    "pins": {
+        "0541ad9e-c85b-440b-adf7-b34825506da5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SWN",
+            "swap_group": 0
+        },
+        "14a999c8-ae2c-4017-b8ed-be3f7234c0e5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRVL",
+            "swap_group": 0
+        },
+        "1dc12330-ead5-45b5-9bc3-c92e741c3426": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "3ae6ca6d-3282-47e1-9526-c5a8f5dbe9e6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRVH",
+            "swap_group": 0
+        },
+        "4f6e2abe-ee02-4636-b329-7184df5de3c5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "6faa92f2-2e57-4477-b98b-7056a7f54d6e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OD",
+            "swap_group": 0
+        },
+        "a367913c-736b-48e6-83f9-6fe6c1e0c3b1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "cfeb5ba0-6945-4931-9e5f-a4ac616af4fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "372fe936-f00d-4c14-812a-444196350221"
+}

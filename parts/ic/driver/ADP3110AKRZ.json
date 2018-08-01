@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "ADP3110AKRZ"
+    ],
+    "datasheet": [
+        false,
+        "http://www.onsemi.com/pub/Collateral/ADP3110A-D.PDF"
+    ],
+    "description": [
+        false,
+        "Dual Bootstrapped, 12 V MOSFET Driver with Output Disable"
+    ],
+    "entity": "5110fef8-8421-413e-b623-842cf6e2137b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "4f6e2abe-ee02-4636-b329-7184df5de3c5"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "cfeb5ba0-6945-4931-9e5f-a4ac616af4fa"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "0541ad9e-c85b-440b-adf7-b34825506da5"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "a367913c-736b-48e6-83f9-6fe6c1e0c3b1"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "6faa92f2-2e57-4477-b98b-7056a7f54d6e"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "14a999c8-ae2c-4017-b8ed-be3f7234c0e5"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "1dc12330-ead5-45b5-9bc3-c92e741c3426"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c",
+            "pin": "3ae6ca6d-3282-47e1-9526-c5a8f5dbe9e6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "driver",
+        "halfbridge",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "ab9a5b74-41fe-475d-804f-dcbe2e62c5cc",
+    "value": [
+        false,
+        "ADP3110A"
+    ]
+}

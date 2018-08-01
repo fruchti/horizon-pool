@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "6a0c6e2b-75a2-4e3f-ba80-e53926f67f7c": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "372fe936-f00d-4c14-812a-444196350221"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "ADP3110A",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "halfbridge",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "5110fef8-8421-413e-b623-842cf6e2137b"
+}

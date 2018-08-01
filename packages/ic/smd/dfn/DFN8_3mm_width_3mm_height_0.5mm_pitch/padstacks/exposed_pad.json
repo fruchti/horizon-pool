@@ -1,0 +1,213 @@
+{
+    "holes": {},
+    "name": "Exposed pad",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ solder_mask_expansion ]\nexpand-polygon [ mask_polygon -825000 890000 -825000 -1190000 825000 -1190000 825000 1190000 -525000 1190000 ]\n0 get-parameter [ paste_mask_contraction ] -\nexpand-polygon [ paste_polygon -825000 890000 -825000 -1190000 825000 -1190000 825000 1190000 -525000 1190000 ]\n",
+    "parameter_set": {
+        "paste_mask_contraction": 0,
+        "solder_mask_expansion": 100000
+    },
+    "polygons": {
+        "0189f8d2-e400-42c8-9ceb-b6a3324f0e4f": {
+            "layer": 30,
+            "parameter_class": "paste_polygon",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        825000,
+                        1190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -525000,
+                        1190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -825000,
+                        890000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -825000,
+                        -1190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        825000,
+                        -1190000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "803e3b6b-2d70-4000-990e-84e2a43291c3": {
+            "layer": 10,
+            "parameter_class": "mask_polygon",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        925000,
+                        1290000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -566421,
+                        1290000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -925000,
+                        931421
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -925000,
+                        -1290000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        925000,
+                        -1290000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "86436de0-c56d-49e0-8d91-7f3b319dd1ff": {
+            "layer": 0,
+            "parameter_class": "copper_polygon",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -825000,
+                        890000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        3350000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -825000,
+                        -1190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        60000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        825000,
+                        -1190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        -60000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        825000,
+                        1190000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        2250000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -525000,
+                        1190000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "7f29b70f-fd83-4e59-acfd-6f76cc0512ed"
+}
