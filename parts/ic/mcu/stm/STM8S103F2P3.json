@@ -1,0 +1,116 @@
+{
+    "MPN": [
+        false,
+        "STM8S103F2P3"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/stm8s103f2.pdf"
+    ],
+    "description": [
+        false,
+        "Mainstream Access line 8-bit MCU with 4 Kbytes Flash, 16 MHz CPU, integrated EEPROM"
+    ],
+    "entity": "33572557-9b46-49c6-8b3a-0a559d956206",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "64a043eb-71f2-472a-a053-1d98cfb82898",
+    "pad_map": {
+        "08b9e628-8dc6-4741-b9d6-398bd3b6375c": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "f6234915-648d-4b34-a654-b99ca7d44a60"
+        },
+        "1350d2e0-1331-4971-9051-d4bdda9a7b05": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "1517ac60-b12a-4c3b-b729-2fa8a8357bec"
+        },
+        "15cd2fbc-95f2-41b0-9555-c877d942d9d7": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "9f2bba54-7de0-4533-8be8-f286676fe49c"
+        },
+        "19075e8e-4e2c-4b85-b411-ae7f36602ca5": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "02e0ae82-8371-46b4-ad3d-382bc4484a47"
+        },
+        "1b71fd6a-761f-4ca5-914a-42cf7a5355d2": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "5160eed0-457b-486d-9b4b-ccf52b3adbc1"
+        },
+        "1d6cc45e-6a6c-4b93-8da2-594fc9e7b94e": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "c62d38a3-5a1b-4ca8-8315-999fdfecdf42"
+        },
+        "1fdcab5f-f500-4cc1-9d5f-9211b127e0c1": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "f04e3526-2f56-4831-9ffe-35eb65d5df5c"
+        },
+        "4e4d3e7b-4335-4706-a4c5-7baca63d27de": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "f438494d-ef9a-4ab7-9dd2-daf1de33e4d7"
+        },
+        "74c3fdd0-654f-44d5-81a0-08e375b1ab77": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "208b74da-7cd5-41e5-b0a1-8fa6ce548d05"
+        },
+        "7cdfbe66-5eec-4e50-ad1d-8f6532a98974": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "96f617b7-b6c5-4108-ae82-26f773224a85"
+        },
+        "924bc86b-1d15-484b-a406-d0f2e7a99e80": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "dd4c62ed-8eb6-4bf7-a257-5a0fce4c1156"
+        },
+        "9d5aacce-d154-4e1c-aec9-f556d9e1e5ec": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "122e0425-112c-42d2-b6bb-8a08f0b79337"
+        },
+        "c98d576a-c830-4377-9d4b-66483505613f": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "0de97c23-354d-43a6-8627-a7f34ac864b0"
+        },
+        "d0589c54-712b-4327-a684-578b522dcf17": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "2d5bb721-ed8b-43f8-b7b3-78f024fb58e1"
+        },
+        "d10a1c3a-00b8-4a1a-aaca-ddb6c87f791b": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "a0a8b47f-8f3d-4673-8721-9929e0e22071"
+        },
+        "d2af628d-714e-45c0-8dd4-76e54aaed0a8": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "dce9afce-3091-4151-b68c-fbc272fcdb1e"
+        },
+        "d3a69779-135b-4a8c-87da-c6ec8a8e1560": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "ad1b640c-8a6e-40ce-bc5f-217b17cef14f"
+        },
+        "e824625c-fd8e-4a2b-88d3-dd738ce94aba": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "b44d21ef-cc6c-4bdb-a9c9-02722be0b625"
+        },
+        "f5d8aa80-42ea-43fe-9350-09402eccafdb": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "6c0f3fb3-b13f-4d05-b90a-2e2c6dd3e6fe"
+        },
+        "fd126e5d-6f45-4146-8f40-7a4dd3eb527f": {
+            "gate": "37d6ce5e-d5d4-4aa7-bb90-ebeca29453c5",
+            "pin": "1b2a50ac-13a5-482e-9079-d85bab907917"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "a7d7bf5b-8b93-46c9-b9d2-5b1aee3a89e7",
+    "value": [
+        false,
+        "STM8S103F2P3"
+    ]
+}

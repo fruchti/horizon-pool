@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "STM8S103F3P6"
+    ],
+    "base": "8f63cdb5-b473-4920-8fdf-bdc2bb8c2d0e",
+    "datasheet": [
+        true,
+        "https://www.st.com/resource/en/datasheet/stm8s103f2.pdf"
+    ],
+    "description": [
+        true,
+        "Mainstream Access line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d1c75345-40ce-48b7-b2ba-42a58fe8143d",
+    "value": [
+        false,
+        "STM8S103F3P6"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "STM8S003F3P6TR"
+    ],
+    "base": "148d99a1-38f0-4014-a314-ed8e442b2561",
+    "datasheet": [
+        true,
+        "https://www.st.com/resource/en/datasheet/stm8s003f3.pdf"
+    ],
+    "description": [
+        true,
+        "Mainstream Value line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5f339238-e459-4dec-8160-f41c9184e693",
+    "value": [
+        true,
+        "STM8S003F3P6"
+    ]
+}
