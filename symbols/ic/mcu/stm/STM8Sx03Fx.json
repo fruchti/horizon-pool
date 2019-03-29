@@ -53,7 +53,7 @@
             "width": 0
         }
     },
-    "name": "STM8S003F3",
+    "name": "STM8Sx03Fx",
     "pins": {
         "02e0ae82-8371-46b4-ad3d-382bc4484a47": {
             "decoration": {
