@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "USB3065-30-01"
+    ],
+    "datasheet": [
+        false,
+        "https://gct.co/connector/usb3065"
+    ],
+    "description": [
+        false,
+        "Micro USB 2.0 Connector with locating pegs"
+    ],
+    "entity": "84f27da9-765a-4f51-acdf-a9c9823ca1af",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "GCT"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1f9659df-0bb1-448a-b266-dc856df80fa7",
+    "pad_map": {
+        "19fc814a-e88a-4943-b458-97580f43b157": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "b6e7a3ce-cb8b-4694-a9c2-7991691592a2"
+        },
+        "26f760af-3aeb-4c1b-b6da-fd1fed429a0b": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "2e272ae6-95f3-43e5-bb7f-632e194c6615": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "2e422f41-bfbc-46ad-abbe-167843a99170"
+        },
+        "79400a3d-64bf-4e55-9011-b30470b73197": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "803c60bf-0818-425f-9fbf-712d87378a51": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "8dc245c2-7d09-4263-acdb-7557ed3cd88b": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "a5726f76-0de5-4924-91f1-76564cac556c"
+        },
+        "95877cbe-e564-455f-8f64-198e0f221895": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "c88f9c58-5c8b-43d5-aa6f-4f3ff5adaf2d": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "427c77f5-287a-4614-a3d5-f09dc5a512a3"
+        },
+        "f7299eee-1520-4d63-8c9b-1384c9ebe0a9": {
+            "gate": "82d603cb-4aab-44a1-90f9-d27bedd7133e",
+            "pin": "393bbed9-8924-4934-ac24-2cf32d8af8c8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "smd",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "6113886a-fa39-4690-b7ae-54631bc6d3a7",
+    "value": [
+        false,
+        "Micro USB"
+    ]
+}
