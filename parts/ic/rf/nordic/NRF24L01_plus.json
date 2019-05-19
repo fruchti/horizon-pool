@@ -1,0 +1,120 @@
+{
+    "MPN": [
+        false,
+        "NRF24L01P"
+    ],
+    "datasheet": [
+        false,
+        "https://infocenter.nordicsemi.com/pdf/nRF24L01P_PS_v1.0.pdf"
+    ],
+    "description": [
+        false,
+        "Single Chip 2.4GHz Transceiver"
+    ],
+    "entity": "186e1f2d-ca0d-490c-9a03-c08336db74fc",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nordic Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5dd3184b-052b-41a1-a7bd-3431e8a5e324",
+    "pad_map": {
+        "0b1241a6-216b-4bb0-89b8-b00d47b33aaa": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "1cbc8952-1c0f-4065-b0fa-101847ffea27"
+        },
+        "3e7a6893-80df-4d6f-92d3-5c0aded1e674": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "feb06c2f-78cb-4473-ac05-c73a1a15bf29"
+        },
+        "40dd66f5-acb4-486a-91e4-f5234873b8d7": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "542fe65e-5afc-44f8-82d1-21246ad3683f"
+        },
+        "5e369a93-65b9-4c2d-bde9-32668205d83c": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "c768efd5-1a5e-4f24-8dac-2da8ad43210b"
+        },
+        "5e63128d-e3a4-4859-a181-54b096e3f7ee": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "515ead46-062e-4c0d-9f50-ee5161569e37"
+        },
+        "70f378c9-7e92-459b-b3af-9440838eda05": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "1cbc8952-1c0f-4065-b0fa-101847ffea27"
+        },
+        "75c319d0-d226-4798-96f3-fdc33fc47125": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "8df6a3ad-1b38-49b1-88fe-954eb67679c5"
+        },
+        "7d1a83d6-cbea-422f-a403-9f784ef202d5": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "7c295354-27f1-45e5-864e-d9b3382c02ff"
+        },
+        "805d89a9-10ae-4383-a57b-44e6002f063e": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "1781cb04-6c96-4f9e-81ee-679b38d62f48"
+        },
+        "84e11d52-5626-4358-92df-5eabe1f8c69d": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "3205c1dd-c012-4360-88b9-45965e3182d7"
+        },
+        "8e0063f0-905a-468c-8b84-cb8d7590e663": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "404ecb99-33fd-4964-a2e1-bb707cd07fd1"
+        },
+        "8fd457da-6815-4030-bea1-95dba2ce673b": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "c768efd5-1a5e-4f24-8dac-2da8ad43210b"
+        },
+        "9185eaae-c2d1-4823-98e4-dd1d55ed6460": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "387eabe8-4675-4354-902c-f27a8cd070a8"
+        },
+        "9fa693cb-ae84-4e30-b0c3-7ded06f0f5a6": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "c768efd5-1a5e-4f24-8dac-2da8ad43210b"
+        },
+        "b164087c-ba69-41f4-9fb4-dc748b9858e2": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "1cbc8952-1c0f-4065-b0fa-101847ffea27"
+        },
+        "b798cde9-0a30-4bfe-87f0-0d40d639bec5": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "1cbc8952-1c0f-4065-b0fa-101847ffea27"
+        },
+        "c47341c2-0751-4f68-9b17-ed780cb97036": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "58e6d4a8-43a9-4af1-a0df-713fc087bdf2"
+        },
+        "cf2f2f51-1eb1-453c-a02b-d4d781961e30": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "5ea67edf-41f2-4a33-812e-d3d19ef25d61"
+        },
+        "d61f95a5-71c0-4fc1-8b01-da2cc650c8f9": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "a3e71b40-c20f-472c-9e76-848eecb02d0d"
+        },
+        "d98429a0-51aa-48c3-b0b1-ba6a59b9f0c4": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "1cbc8952-1c0f-4065-b0fa-101847ffea27"
+        },
+        "f3cf97e3-a631-43c6-801f-aeda8a9ceb9c": {
+            "gate": "93300715-8d38-4224-ae2b-6fb7439b6b2c",
+            "pin": "0eccf583-8ca6-4014-b951-22b0b59ebd22"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "rf"
+    ],
+    "type": "part",
+    "uuid": "7ed00f57-6625-47af-a9d2-eac9c3929384",
+    "value": [
+        false,
+        "NRF24L01+"
+    ]
+}

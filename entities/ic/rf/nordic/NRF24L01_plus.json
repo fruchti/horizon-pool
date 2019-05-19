@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "93300715-8d38-4224-ae2b-6fb7439b6b2c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c0cf087c-cd67-47c6-aada-d294f859443c"
+        }
+    },
+    "manufacturer": "Nordic Semiconductor",
+    "name": "NRF24L01+",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rf"
+    ],
+    "type": "entity",
+    "uuid": "186e1f2d-ca0d-490c-9a03-c08336db74fc"
+}
