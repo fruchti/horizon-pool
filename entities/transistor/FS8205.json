@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2fa1a45b-2e50-4284-8e93-39cfda03d6fe": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "97d74536-2361-475f-8652-25da800480f9"
+        }
+    },
+    "manufacturer": "Fortune Semiconductor",
+    "name": "FS8205",
+    "prefix": "Q",
+    "tags": [
+        "dual",
+        "transistor"
+    ],
+    "type": "entity",
+    "uuid": "cdf827d9-c337-4d4d-b218-b51f040ed1cd"
+}

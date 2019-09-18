@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "FS8205A"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ic-fortune.com/upload/Download/FS8205A-DS-17_EN.pdf"
+    ],
+    "description": [
+        false,
+        "Dual N-Channel Enhancement Mode Power MOSFET"
+    ],
+    "entity": "cdf827d9-c337-4d4d-b218-b51f040ed1cd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Fortune Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bc78d24c-ca26-458f-826b-a92ca324c6ad",
+    "pad_map": {
+        "04ac7a75-b417-45b1-b5c9-6e883550999c": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "7bc12f19-c5c4-4997-8b99-98087a6111d0"
+        },
+        "122635cd-5ea3-42d5-8c67-1371fd145f90": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "af7e1f62-16c8-4aa0-aecb-7f9efd6e9172"
+        },
+        "26b473ad-8fbe-4640-bf0b-169061ededd2": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "7bc12f19-c5c4-4997-8b99-98087a6111d0"
+        },
+        "2b67d97f-f271-448a-97fe-33d9f13b3dc6": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "e9545051-44ac-44c2-b38e-67c019162e36"
+        },
+        "3b17f6b4-4794-4a2d-a384-7fbbc416f4fb": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "d4789023-cb4c-4808-bb14-700568023d63"
+        },
+        "4630934f-b688-468f-8107-7678ac07c6da": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "af7e1f62-16c8-4aa0-aecb-7f9efd6e9172"
+        },
+        "5a7902da-b874-47b9-a949-4a96710298a9": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "d4789023-cb4c-4808-bb14-700568023d63"
+        },
+        "889890d1-7957-4255-9ce1-576e7d23b7ae": {
+            "gate": "2fa1a45b-2e50-4284-8e93-39cfda03d6fe",
+            "pin": "592caec1-73de-4f5b-8559-7af413bc1477"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dual",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "5ceab78a-78ce-4af4-931e-9350b8e2b12e",
+    "value": [
+        false,
+        "FS8205A"
+    ]
+}

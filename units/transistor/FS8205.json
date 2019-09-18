@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Fortune Semiconductor",
+    "name": "FS8205",
+    "pins": {
+        "592caec1-73de-4f5b-8559-7af413bc1477": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G2",
+            "swap_group": 0
+        },
+        "7bc12f19-c5c4-4997-8b99-98087a6111d0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D12",
+            "swap_group": 0
+        },
+        "af7e1f62-16c8-4aa0-aecb-7f9efd6e9172": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S1",
+            "swap_group": 0
+        },
+        "d4789023-cb4c-4808-bb14-700568023d63": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S2",
+            "swap_group": 0
+        },
+        "e9545051-44ac-44c2-b38e-67c019162e36": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "97d74536-2361-475f-8652-25da800480f9"
+}
