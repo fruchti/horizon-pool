@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DW01E-G"
+    ],
+    "base": "220ad1b6-061a-4ecb-a6fe-89edee5f2120",
+    "datasheet": [
+        true,
+        "https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN_53345.pdf"
+    ],
+    "description": [
+        true,
+        "One Cell Lithium-ion/Polymer Battery Protection IC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Fortune Semiconductor"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "77988b12-7fa7-488a-b0d9-c72b7a6ad954",
+    "value": [
+        false,
+        "DW01E-"
+    ]
+}

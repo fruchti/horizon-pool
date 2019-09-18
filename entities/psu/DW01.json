@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "b5b1ba79-814c-4448-ad36-645d2ee0c000": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7572b4d9-0b5a-43b5-8f48-047ae6369158"
+        }
+    },
+    "manufacturer": "Fortune Semiconductor",
+    "name": "DW01",
+    "prefix": "U",
+    "tags": [
+        "battery",
+        "ic",
+        "protection"
+    ],
+    "type": "entity",
+    "uuid": "715c15ee-5d5e-4c1b-8356-a6ba4c19f23b"
+}

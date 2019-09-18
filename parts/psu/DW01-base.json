@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "DW01 base"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN_53345.pdf"
+    ],
+    "description": [
+        false,
+        "One Cell Lithium-ion/Polymer Battery Protection IC"
+    ],
+    "entity": "715c15ee-5d5e-4c1b-8356-a6ba4c19f23b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Fortune Semiconductor"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "package": "b88c24d5-edaf-41f7-9da9-89f71a889f2b",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "b5b1ba79-814c-4448-ad36-645d2ee0c000",
+            "pin": "2a1ef161-2a96-4543-962d-812c39d78c1a"
+        },
+        "9986eb17-a7fa-49bd-9d57-b1d397742fb5": {
+            "gate": "b5b1ba79-814c-4448-ad36-645d2ee0c000",
+            "pin": "69cf3cbf-f3f1-4c7b-8b8b-61d3ef7a085f"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "b5b1ba79-814c-4448-ad36-645d2ee0c000",
+            "pin": "3b41e8fc-f125-4b23-8c0a-0e52dfe5ab58"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "b5b1ba79-814c-4448-ad36-645d2ee0c000",
+            "pin": "2062be6b-2658-4bb0-9862-0492d7844d91"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "b5b1ba79-814c-4448-ad36-645d2ee0c000",
+            "pin": "52631644-03ae-49f5-ad38-b633cc830242"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "b5b1ba79-814c-4448-ad36-645d2ee0c000",
+            "pin": "5e95c4b1-db7f-4104-aebb-bc3b8de5281e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "ic",
+        "protection"
+    ],
+    "type": "part",
+    "uuid": "220ad1b6-061a-4ecb-a6fe-89edee5f2120",
+    "value": [
+        false,
+        "DW01"
+    ]
+}

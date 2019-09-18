@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Fortune Semiconductor",
+    "name": "DW01",
+    "pins": {
+        "2062be6b-2658-4bb0-9862-0492d7844d91": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OD",
+            "swap_group": 0
+        },
+        "2a1ef161-2a96-4543-962d-812c39d78c1a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS",
+            "swap_group": 0
+        },
+        "3b41e8fc-f125-4b23-8c0a-0e52dfe5ab58": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TD",
+            "swap_group": 0
+        },
+        "52631644-03ae-49f5-ad38-b633cc830242": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "5e95c4b1-db7f-4104-aebb-bc3b8de5281e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OC",
+            "swap_group": 0
+        },
+        "69cf3cbf-f3f1-4c7b-8b8b-61d3ef7a085f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7572b4d9-0b5a-43b5-8f48-047ae6369158"
+}
