@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "1042"
+    ],
+    "datasheet": [
+        false,
+        "https://www.keyelco.com/product-pdf.cfm?p=918"
+    ],
+    "description": [
+        false,
+        "18650 battery holder, SMT"
+    ],
+    "entity": "cc74cd32-a7da-494d-a91c-27b70f9450f4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Keystone"
+    ],
+    "model": "b16153e7-b88b-4580-b3d0-d96f24bafc3e",
+    "package": "cfd73509-d065-40eb-b6e4-4ba50390eef9",
+    "pad_map": {
+        "691d18cf-46a3-404a-ae85-f0bbc75d293f": {
+            "gate": "eeaa4f0e-5ec8-41e9-bd98-985a4a48234f",
+            "pin": "8d400332-04db-4d9d-b3c2-1f398b577fcd"
+        },
+        "fff8177a-71a8-44f8-8d08-92a37bf8e1c5": {
+            "gate": "eeaa4f0e-5ec8-41e9-bd98-985a4a48234f",
+            "pin": "c7dd1271-5537-4db1-ac39-2664fdaf7af2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "18650",
+        "battery",
+        "holder"
+    ],
+    "type": "part",
+    "uuid": "4b3201e2-40f1-434d-99bc-3fc122303fc1",
+    "value": [
+        false,
+        "1042"
+    ]
+}
