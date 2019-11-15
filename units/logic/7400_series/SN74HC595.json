@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "SN74HC595",
+    "pins": {
+        "0bd7d172-5a66-46f5-8420-ed8786b30edd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QB",
+            "swap_group": 0
+        },
+        "23ece1bd-c398-4eba-8772-8fc20bbe4894": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QF",
+            "swap_group": 0
+        },
+        "276fd048-6f9f-4834-b92e-6bad09db46d4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "2ad0e66f-de74-4f9c-8232-d21479254551": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QG",
+            "swap_group": 0
+        },
+        "2d99b06c-81e1-4d9f-8077-d772d921d670": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QC",
+            "swap_group": 0
+        },
+        "3a7cea9d-cd0b-452f-8d19-33991633f6e8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OE",
+            "swap_group": 0
+        },
+        "43f204b3-f6dd-4e02-9e4e-3cbe6f618082": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SER",
+            "swap_group": 0
+        },
+        "46cb1838-dbcb-4ced-ae3f-9a30c119e8d3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RCLK",
+            "swap_group": 0
+        },
+        "4e15a38d-4063-47fd-8fe9-3471aae70142": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QH'",
+            "swap_group": 0
+        },
+        "87a5cb31-49d1-4e0c-afcb-6a9d76aef453": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QD",
+            "swap_group": 0
+        },
+        "9527316e-5944-4452-8ca1-4c1cc602f694": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "a2a43146-4d3a-4204-99cb-a346023d5f35": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QA",
+            "swap_group": 0
+        },
+        "a7fbaa36-a867-4b2c-b01d-4be6e259b2e9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QE",
+            "swap_group": 0
+        },
+        "cfd2737a-64be-433c-9346-8e80ff040ef1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QH",
+            "swap_group": 0
+        },
+        "d612b697-82d3-487c-ab36-6f4e9d0e2af2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SRCLR",
+            "swap_group": 0
+        },
+        "e45a8096-1c21-4103-910d-4ab1d4719655": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SRCLK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4b156cd5-6dad-4466-aa03-049f61e779e3"
+}

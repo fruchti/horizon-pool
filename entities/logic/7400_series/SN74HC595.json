@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4b156cd5-6dad-4466-aa03-049f61e779e3"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN74HC595",
+    "prefix": "U",
+    "tags": [
+        "cmos",
+        "logic",
+        "shift register"
+    ],
+    "type": "entity",
+    "uuid": "c103f908-863a-41f9-b2bc-343fcd104e3f"
+}

@@ -1,0 +1,109 @@
+{
+    "MPN": [
+        false,
+        "SN74HC595D"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn74hc595.pdf"
+    ],
+    "description": [
+        false,
+        "8-bit shift register with 3-state output register"
+    ],
+    "entity": "c103f908-863a-41f9-b2bc-343fcd104e3f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "5738bb8d-0bbb-4c9b-a05f-a86e5c22b1bd",
+    "orderable_MPNs": {
+        "0c66a6eb-5454-4135-b5bc-b99c6135eb24": "SN74HC595DRG4",
+        "42106975-8bd8-42a2-9e75-4ede3f82556d": "SN74HC595DT",
+        "501a1c21-cac0-4f7a-9ef9-ad5172333d64": "SN74HC595DRG3",
+        "630f6821-c155-43ac-bc8a-95f96416eb79": "SN74HC595DRE4",
+        "6d03c6a8-f810-42a6-84f8-d9d20921bc0c": "SN74HC595DG4",
+        "7b6f3d61-a336-4f8b-bd61-3c3535bfa34d": "SN74HC595DR",
+        "e02c963a-208e-4b77-a3d9-f3bd387794c6": "SN74HC595DE4"
+    },
+    "package": "89753aad-7d67-498a-84bf-d383c8e5d7ca",
+    "pad_map": {
+        "0a36f2e6-c9d6-40a1-b33c-abe9e4afca7e": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "2d99b06c-81e1-4d9f-8077-d772d921d670"
+        },
+        "115c25c7-8b9b-4b53-845d-6dddb980234b": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "4e15a38d-4063-47fd-8fe9-3471aae70142"
+        },
+        "1629aeb4-28fc-4320-ad26-2443427cb6bf": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "43f204b3-f6dd-4e02-9e4e-3cbe6f618082"
+        },
+        "1bb22b46-b8f8-46e2-bb7a-e7a7f716da03": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "276fd048-6f9f-4834-b92e-6bad09db46d4"
+        },
+        "5c5c1e08-dee1-493f-bde2-3a0bd3a599b7": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "0bd7d172-5a66-46f5-8420-ed8786b30edd"
+        },
+        "7a127de8-9b15-48d5-8276-033d2d51dc1f": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "9527316e-5944-4452-8ca1-4c1cc602f694"
+        },
+        "7e2a4ff2-cba6-41be-9293-533e3840c538": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "e45a8096-1c21-4103-910d-4ab1d4719655"
+        },
+        "82a7b208-95b3-460a-ab66-6afc88870484": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "23ece1bd-c398-4eba-8772-8fc20bbe4894"
+        },
+        "84f72dbe-4b36-4926-b638-344194dabd8f": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "a7fbaa36-a867-4b2c-b01d-4be6e259b2e9"
+        },
+        "937c74ba-857a-4f04-8e16-6246c31264d3": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "cfd2737a-64be-433c-9346-8e80ff040ef1"
+        },
+        "9e777d36-b1b0-4a9a-9025-95f26117c5e7": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "3a7cea9d-cd0b-452f-8d19-33991633f6e8"
+        },
+        "a359e9db-1ba2-42b2-8667-4b3a719dd683": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "a2a43146-4d3a-4204-99cb-a346023d5f35"
+        },
+        "a7817369-703b-400f-8185-b9992f6abeac": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "46cb1838-dbcb-4ced-ae3f-9a30c119e8d3"
+        },
+        "b6bc9647-8f15-4ccf-8b03-6387e2f6020f": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "2ad0e66f-de74-4f9c-8232-d21479254551"
+        },
+        "fa75e337-5f96-401e-8127-2d42cb6754d5": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "87a5cb31-49d1-4e0c-afcb-6a9d76aef453"
+        },
+        "febfbda4-57af-40ad-91aa-b5c41265412f": {
+            "gate": "ba1d96f7-f1b5-4f86-8742-89e62c1d2d05",
+            "pin": "d612b697-82d3-487c-ab36-6f4e9d0e2af2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "cmos",
+        "logic"
+    ],
+    "type": "part",
+    "uuid": "7f095733-f51e-42d1-87be-4164751f835a",
+    "value": [
+        false,
+        "74HC595"
+    ]
+}
