@@ -1,0 +1,122 @@
+{
+    "MPN": [
+        false,
+        "STM32F042F4P6"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/stm32f042f4.pdf"
+    ],
+    "description": [
+        false,
+        "Mainstream ARM Cortex-M0 USB line MCU with 16 Kbytes Flash, 48 MHz CPU, USB, CAN and CEC functions"
+    ],
+    "entity": "765d2f24-edff-4724-87bd-a0c09109bd24",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "d4c49141-58c5-4d60-acd0-dff44c06786c",
+    "orderable_MPNs": {
+        "16035052-6c46-4dfe-96b6-313e3c567436": "STM32F042F4P6TR",
+        "7e2cef1c-e192-48b7-a035-d57728dca126": "STM32F042F4P6"
+    },
+    "package": "818b2b4c-6a66-418f-8e7f-9d6d4c58e5c7",
+    "pad_map": {
+        "08b9e628-8dc6-4741-b9d6-398bd3b6375c": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "c4fa73cd-3b9a-4ca8-b2cb-bd9b7cca9abc"
+        },
+        "1350d2e0-1331-4971-9051-d4bdda9a7b05": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "581ccd85-1844-458f-9f07-7391a83fcaf2"
+        },
+        "15cd2fbc-95f2-41b0-9555-c877d942d9d7": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "63f8d7de-5e2c-4c9e-a40a-897022d69a10"
+        },
+        "19075e8e-4e2c-4b85-b411-ae7f36602ca5": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "a6ef72e6-189e-4178-81e1-912b2b397308"
+        },
+        "1b71fd6a-761f-4ca5-914a-42cf7a5355d2": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "1c3d6666-c2ed-44d3-b1e2-f4a5a8b22509"
+        },
+        "1d6cc45e-6a6c-4b93-8da2-594fc9e7b94e": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "77f8e37e-7809-4fe3-ae5a-9ae6de9e638c"
+        },
+        "1fdcab5f-f500-4cc1-9d5f-9211b127e0c1": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "3727adc0-dd03-49b9-a5a6-82d72970ae41"
+        },
+        "4e4d3e7b-4335-4706-a4c5-7baca63d27de": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "cb89f58d-1261-494f-83c3-f8793a7301b1"
+        },
+        "74c3fdd0-654f-44d5-81a0-08e375b1ab77": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "a9bbb800-d7a6-4b5c-8dc6-873958877ce8"
+        },
+        "7cdfbe66-5eec-4e50-ad1d-8f6532a98974": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "0d958b89-4f4b-4639-a412-f0b9f722f654"
+        },
+        "924bc86b-1d15-484b-a406-d0f2e7a99e80": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "420443b8-0d0b-4a1c-ab23-a9577a269096"
+        },
+        "9d5aacce-d154-4e1c-aec9-f556d9e1e5ec": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "03b231da-f935-4ded-9b6a-0487a2901623"
+        },
+        "c98d576a-c830-4377-9d4b-66483505613f": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "527c6b94-0a89-425b-9a3f-465effe8a264"
+        },
+        "d0589c54-712b-4327-a684-578b522dcf17": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "8de0828a-6104-49f2-a9b1-6af4d776f943"
+        },
+        "d10a1c3a-00b8-4a1a-aaca-ddb6c87f791b": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "8fc4b0bc-cf12-4e40-af03-800406bf8736"
+        },
+        "d2af628d-714e-45c0-8dd4-76e54aaed0a8": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "34a89e1b-5789-4ed1-8b33-0f378bf1dcbb"
+        },
+        "d3a69779-135b-4a8c-87da-c6ec8a8e1560": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "1d22d610-7716-4ae9-9143-9f7cf128a7fc"
+        },
+        "e824625c-fd8e-4a2b-88d3-dd738ce94aba": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "7521872c-9e51-4fd7-8674-2474b1d5af87"
+        },
+        "f5d8aa80-42ea-43fe-9350-09402eccafdb": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "96cb16f6-df68-43f5-bd63-7656acb8769b"
+        },
+        "fd126e5d-6f45-4146-8f40-7a4dd3eb527f": {
+            "gate": "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d",
+            "pin": "4f09dfd9-a3ca-4964-84ed-6e1737252432"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "arm",
+        "ic",
+        "mcu",
+        "stm32"
+    ],
+    "type": "part",
+    "uuid": "71d3d80e-7e71-4986-a8dc-5b2fe77e1a58",
+    "value": [
+        false,
+        "STM32F042F4P6"
+    ]
+}

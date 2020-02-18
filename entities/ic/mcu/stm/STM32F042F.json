@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "2cd3e5e8-1f21-4494-ba38-7e40aff7ce6d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "52ffce7c-7f55-4fbc-981e-fd849d744d5e"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STM32F042F",
+    "prefix": "U",
+    "tags": [
+        "arm",
+        "ic",
+        "mcu",
+        "stm32"
+    ],
+    "type": "entity",
+    "uuid": "765d2f24-edff-4724-87bd-a0c09109bd24"
+}
