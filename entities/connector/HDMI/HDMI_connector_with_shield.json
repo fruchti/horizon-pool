@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "30f44d83-cbf3-4d24-be1d-8f37c2795758"
+        }
+    },
+    "manufacturer": "",
+    "name": "HDMI connector with shield",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic",
+        "hdmi"
+    ],
+    "type": "entity",
+    "uuid": "ef2e5543-7a62-41b5-98d4-db3f583cdc07"
+}

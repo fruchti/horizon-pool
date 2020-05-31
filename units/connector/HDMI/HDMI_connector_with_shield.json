@@ -1,0 +1,133 @@
+{
+    "manufacturer": "",
+    "name": "HDMI connector with shield",
+    "pins": {
+        "2585b351-3edf-42c9-92f2-0dd7511d8d37": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data0 Shield",
+            "swap_group": 0
+        },
+        "27905990-24f2-4096-923b-a6c5696f4e40": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data1+",
+            "swap_group": 0
+        },
+        "3ab62aec-b2bd-4633-92b1-ec0985f104d6": {
+            "direction": "passive",
+            "names": [
+                "Hot",
+                "Plug"
+            ],
+            "primary_name": "Hot Plug/HEAC-",
+            "swap_group": 0
+        },
+        "4ca2328e-c909-4486-b90d-2b7495aca099": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data0+",
+            "swap_group": 0
+        },
+        "579f010f-f5df-47cd-9809-d9e1187042a3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "7ab4b370-df16-448b-a902-b750369000f6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data1-",
+            "swap_group": 0
+        },
+        "82a38e59-c10e-4174-8274-c5a3948570e5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Clock-",
+            "swap_group": 0
+        },
+        "8541eba7-61fe-49e7-8afd-baccaf74ceb4": {
+            "direction": "passive",
+            "names": [
+                "Reserved"
+            ],
+            "primary_name": "Utility/HEAC+",
+            "swap_group": 0
+        },
+        "889a1c46-d0b9-440a-b7e2-6c0ad73c0005": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data2 Shield",
+            "swap_group": 0
+        },
+        "8a666621-4426-497c-8afb-58c9f56542a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Clock Shield",
+            "swap_group": 0
+        },
+        "8e4e7357-9b10-4a85-a931-2ad2b2416d5e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Shield",
+            "swap_group": 0
+        },
+        "a54be288-cf7f-4ef8-bd18-1559153a306a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data2+",
+            "swap_group": 0
+        },
+        "bc5ddd0f-e204-4c33-8da1-fc32b5ec1a74": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CEC",
+            "swap_group": 0
+        },
+        "d3d383ef-69ec-492a-886c-ddd3865295cc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "+5 V",
+            "swap_group": 0
+        },
+        "d7630a70-9012-4c7a-9a62-95dc696b7040": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "dc588199-280b-4258-9542-3ee4a793aac0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e8345e4e-35c8-40a1-a936-4f0d5022105a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data0-",
+            "swap_group": 0
+        },
+        "f3d6ca44-fc1c-4832-88a4-25294159ef38": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data1 Shield",
+            "swap_group": 0
+        },
+        "f61d0e80-edb7-4a19-a47f-23092e81fe82": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Clock+",
+            "swap_group": 0
+        },
+        "f98e5556-cee5-47ed-ab6e-1666a0141435": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Data2-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "30f44d83-cbf3-4d24-be1d-8f37c2795758"
+}

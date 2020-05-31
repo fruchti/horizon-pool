@@ -1,0 +1,129 @@
+{
+    "MPN": [
+        false,
+        "685119134923"
+    ],
+    "datasheet": [
+        false,
+        "https://www.we-online.de/katalog/datasheet/685119134923.pdf"
+    ],
+    "description": [
+        false,
+        "WR-COM HDMI SMT Horizontal Connector"
+    ],
+    "entity": "ef2e5543-7a62-41b5-98d4-db3f583cdc07",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "11eff72a-bb3c-41ca-ab26-f9b1aefe1c52",
+    "pad_map": {
+        "0a395f17-6bda-4926-bbab-dfefcfc0e816": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "8e4e7357-9b10-4a85-a931-2ad2b2416d5e"
+        },
+        "14717b5a-e526-4441-94ce-163ea556327e": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "e8345e4e-35c8-40a1-a936-4f0d5022105a"
+        },
+        "19a1db8b-7500-4e89-ac13-3cd738f0571f": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "82a38e59-c10e-4174-8274-c5a3948570e5"
+        },
+        "28a9978e-cd56-4713-a750-476e21749b74": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "4ca2328e-c909-4486-b90d-2b7495aca099"
+        },
+        "339f75db-87ea-4c64-8515-7dec73ba9849": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "a54be288-cf7f-4ef8-bd18-1559153a306a"
+        },
+        "40b3e216-13c6-40b8-b8d1-c7bb65350240": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "dc588199-280b-4258-9542-3ee4a793aac0"
+        },
+        "528504be-102d-4719-9eb6-b3b47a297aa5": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "8541eba7-61fe-49e7-8afd-baccaf74ceb4"
+        },
+        "572fd7af-2229-46cb-b01e-dd56b9853cad": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "8e4e7357-9b10-4a85-a931-2ad2b2416d5e"
+        },
+        "71f2349f-1b92-4932-bbc0-0f9ba007734e": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "27905990-24f2-4096-923b-a6c5696f4e40"
+        },
+        "73ce3378-e6cb-484a-ab56-94cb0f79b1bc": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "889a1c46-d0b9-440a-b7e2-6c0ad73c0005"
+        },
+        "75d8434f-a15b-451d-b2b4-e5588b7f9b58": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "f61d0e80-edb7-4a19-a47f-23092e81fe82"
+        },
+        "79e6f818-7129-4a18-b5f1-eba73475a85a": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "8e4e7357-9b10-4a85-a931-2ad2b2416d5e"
+        },
+        "8b24c1bb-d6d9-46b6-8263-ddf269ce5c03": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "bc5ddd0f-e204-4c33-8da1-fc32b5ec1a74"
+        },
+        "9dc5154e-d3dd-4c6f-af48-b91ff6103e17": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "d7630a70-9012-4c7a-9a62-95dc696b7040"
+        },
+        "a6f093e2-94aa-4397-9af2-5628f03db79c": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "7ab4b370-df16-448b-a902-b750369000f6"
+        },
+        "ab141167-5850-4d13-8dbb-fc76859943bc": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "f98e5556-cee5-47ed-ab6e-1666a0141435"
+        },
+        "b82eceac-2fb9-44a5-abd9-952db742830e": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "579f010f-f5df-47cd-9809-d9e1187042a3"
+        },
+        "c5030d05-5dad-482a-ac38-24454e90ab5c": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "2585b351-3edf-42c9-92f2-0dd7511d8d37"
+        },
+        "d9a19150-cc41-4e0f-b8bc-3fa9d3a46493": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "3ab62aec-b2bd-4633-92b1-ec0985f104d6"
+        },
+        "ea5501cf-a9fa-43af-839e-edbd26e5892b": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "d3d383ef-69ec-492a-886c-ddd3865295cc"
+        },
+        "ee4babd1-840a-4660-bc72-be7bd61cd5c6": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "f3d6ca44-fc1c-4832-88a4-25294159ef38"
+        },
+        "f97f92ad-4e41-4f26-90ee-d6670578d3ef": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "8e4e7357-9b10-4a85-a931-2ad2b2416d5e"
+        },
+        "fe56aa29-17af-4cf6-808d-0e3b5eb019d9": {
+            "gate": "e325eefb-f4fd-4abd-aa7f-b4f2278a09ce",
+            "pin": "8a666621-4426-497c-8afb-58c9f56542a9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "hdmi",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "bb0625f1-cfc3-4308-872a-fcc3693c793f",
+    "value": [
+        false,
+        "HDMI"
+    ]
+}
